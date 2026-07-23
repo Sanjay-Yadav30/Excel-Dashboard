@@ -61,13 +61,16 @@ The dashboard is built using an orders dataset containing the following fields:
 ## 🖼️ Dashboard Preview
 
 ### Overall Dashboard
-<img src="Orders Dashboard Both.png" width="900">
+<img width="957" height="546" alt="Orders Dashboard Both" src="https://github.com/user-attachments/assets/ee209eb1-bb21-4c14-a133-1f574529b905" />
+
 
 ### Online Orders Dashboard
-<img src="Orders Dashboard Online.png" width="900">
+<img width="985" height="554" alt="Orders Dashboard Online" src="https://github.com/user-attachments/assets/7946a56e-43f7-479c-a4d2-b2b80010b41e" />
+
 
 ### Physical Visit Dashboard
-<img src="Orders Dashboard Physical Visit.png" width="900">
+<img width="967" height="558" alt="Orders Dashboard Physical Visit" src="https://github.com/user-attachments/assets/3ce692d7-eda6-4970-be06-d9c0a2c86a9c" />
+
 
 ---
 
